@@ -15,4 +15,3 @@ Everhealth is a platform to buy medicine and consult with doctors. There are 4 r
 ### Notes:
 
 - We use local backend REST API in this project, so it is possible that the project doesn't run accordingly.
-- We've already depolyed the project in this link. Please kindly visit this link https://digitalent.games.test.shopee.io/vm3
